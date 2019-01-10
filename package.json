@@ -1,0 +1,24 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "This is just a node learning module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "v11.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developmentvk/node-api.git"
+  },
+  "author": "Kashif Ahmed",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
